@@ -32,4 +32,6 @@ Clean interface with real-time feedback.
 
 Placeholders for images/AI illustrations.
 
-Extensible & Modular – Easy to integrate more features like AI forecasting, maps, or human-intelligence suggestions.
+Extensible & Modular – 
+
+Easy to integrate more features like AI forecasting, maps, or human-intelligence suggestions.
